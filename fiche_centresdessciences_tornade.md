@@ -13,13 +13,13 @@
 
 *(À rédiger par vous-même)*
 
-![Image du dispositif](...)
+![Image du dispositif](tornade_2.jpg)
 
 ## Type d'installation
 
 - **Catégorie :** Contemplative
 
-![Image illustrant le type d'installation](...)
+![Image illustrant le type d'installation](tornade_2.jpg)
 
 ## Mise en espace
 
