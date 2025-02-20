@@ -1,39 +1,50 @@
-# Fiche de l'œuvre : Simulateur de Tornade Miniature
+d# Fiche de l'œuvre : Simulateur de Tornade Miniature
 
-![Image de l'expo](...)
+![Image de l'expo](medias/Centre_Des_Sciences.jpg)
 
 ## Informations générales
 
 - **Nom de l'exposition :** Explore - La science en grand
 - **Lieu de mise en exposition :** Centre des sciences de Montréal
-- **Type d'exposition :** Exposition permanente
+- **Type d'exposition :** Intérieure
 - **Date de votre visite :** 30 janvier
 
 ## Description du dispositif
 
-*(À rédiger par vous-même)*
+* Le dispositif est une chambre cylindrique transparente équipée de ventilateurs disposés en cercle à la base pour créer un mouvement d’air rotatif. Un ventilateur vertical central pousse l’air vers le haut, formant un vortex visible grâce à un générateur de fumée ou un humidificateur. Des volets ajustables permettent de contrôler la taille et l’intensité de la tornade. Des lumières LED mettent en valeur les mouvements du tourbillon, et un panneau interactif permet aux visiteurs de modifier les paramètres en temps réel.
 
-![Image du dispositif](tornade_2.jpg)
+![Image du dispositif](medias/tornade_2.jpg)
 
 ## Type d'installation
 
 - **Catégorie :** Contemplative
 
-![Image illustrant le type d'installation](tornade_2.jpg)
+![Image illustrant le type d'installation](medias/tornade_4.jpg)
 
 ## Mise en espace
 
-*(Inclure une vidéo décrivant la mise en espace)*
+[![Vidéo illustrant la mise en espace](medias/expositions_science.png)](https://youtube.com/shorts/t6tW-Wp3w3I?si=qpIfWuoi2UrXT1I-)
 
-![Vidéo de la mise en espace](...)
 
 ## Composantes et techniques
 
-*(À rédiger par vous-même)*
+* Pour simuler l'apparition d'une tornade tel que mis en exposition dans cette section de Explore, on crée une tornade de façon éxacte, mais de façon miniature. Une tornade se forme grâce à un mélange d'air chaud montant en rotation et d'un courant d'air descendant stabilisant le vortex. Pour simuler cela en miniature, on doit contrôler le mouvement de l'air et la visibilité du tourbillon avec de la vapeur ou de la fumée. Pour cela, on utilise ce qu'on va voir dans les éléments nécessaires à la mise en exposition.
+
+
 
 ## Éléments nécessaires à la mise en exposition
 
-*(À rédiger par vous-même)*
+- 🔸 Des matériaux et composantes
+Une chambre cylindrique ou en verre acrylique pour visualiser la tornade et une base solide avec des ventilateurs intégrés, tel que utilisé dans l'exposition.
+- 🔸 Système d’air en rotation
+Ventilateurs (au moins 2-4 petits ventilateurs placés de manière circulaire sur la base pour créer un mouvement de rotation)
+Un ventilateur vertical sous la structure pour pousser l’air vers le haut
+- 🔸 Générateur de "tornade" visible
+Un humidificateur ou un générateur de fumée pour rendre l’air visible
+Un système d’éclairage LED pour améliorer la visibilité de la tornade
+- 🔸 Contrôle du flux d'air
+Volets ajustables autour de la base pour contrôler l’intensité et la largeur de la tornade
+Régulateurs de vitesse des ventilateurs pour ajuster le vortex
 
 ## Expérience vécue
 
