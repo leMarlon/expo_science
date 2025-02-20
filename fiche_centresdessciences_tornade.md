@@ -25,6 +25,8 @@ Photo du dispositif de tornade artificielle dans l'exposition Explore - prise pa
 
 ![Image illustrant le type d'installation](medias/tornade_4.jpg)
 
+* En effet, l'image nous permet de voir le dispositif très précisement, ainsi que les ventilateurs, la vitre protectice, et etc.
+
 Photo du dispositif de tornade artificielle dans l'exposition Explore - prise par Harley Marlon Labbe, le 30 janvier 2025
 
 ## Mise en espace
