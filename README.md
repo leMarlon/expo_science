@@ -1,3 +1,3 @@
+# Banque d'Inspirations
 
-Ce dossier contient les consignes spécifiques pour la réealisation des travaux pratiques.
-
+Ce répertoire contient des ressources et des documents relatifs aux travaux pratiques du cours. Vous y trouverez des fiches détaillées sur diverses expositions et dispositifs étudiés.
