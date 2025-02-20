@@ -1,6 +1,8 @@
-d# Fiche de l'œuvre : Simulateur de Tornade Miniature
+# Fiche de l'œuvre : Simulateur de Tornade Miniature
 
 ![Image de l'expo](medias/Centre_Des_Sciences.jpg)
+
+Photo du Centre des Sciences - https://www.centredessciencesdemontreal.com/exposition-permanente/explore, fevrier 2025
 
 ## Informations générales
 
@@ -15,15 +17,21 @@ d# Fiche de l'œuvre : Simulateur de Tornade Miniature
 
 ![Image du dispositif](medias/tornade_2.jpg)
 
+Photo du dispositif de tornade artificielle dans l'exposition Explore - prise par Harley Marlon Labbe, le 30 janvier 2025
+
 ## Type d'installation
 
 - **Catégorie :** Contemplative
 
 ![Image illustrant le type d'installation](medias/tornade_4.jpg)
 
+Photo du dispositif de tornade artificielle dans l'exposition Explore - prise par Harley Marlon Labbe, le 30 janvier 2025
+
 ## Mise en espace
 
 [![Vidéo illustrant la mise en espace](medias/expositions_science.png)](https://youtube.com/shorts/t6tW-Wp3w3I?si=qpIfWuoi2UrXT1I-)
+
+Photo de la page du Centre des Sciences dans l'exposition Explore - https://www.centredessciencesdemontreal.com/exposition-permanente/explore, fevrier 2025
 
 
 ## Composantes et techniques
